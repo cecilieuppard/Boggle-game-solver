@@ -7,7 +7,7 @@ Purpose:
 To solve a Boggle board using three different programs, BogSolver, 
 BogValidatior and BogScorer. Collectively they read in a dictionary, a board,
 solves the board by finding all possible words, validates the input from
-the client and scores their input. The program work independently, but solves
+the client and scores their input. The programs work independently, but solves
 a Boggle board together by BogValidator taking in BogSolver's output and
 BogScorer taking in BogValidator's output.
 
